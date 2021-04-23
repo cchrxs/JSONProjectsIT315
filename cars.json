@@ -1,0 +1,74 @@
+{
+	"Cars":	[
+		{
+
+				"CarName": "350z",
+				"CarMake": "Nissan",
+				"CarYear": "2008",
+				"CarHP": "306",
+				"CarEngine": "3.5 L V6",
+				"CarMPG": "18",
+				"CarWeight": "3,602",
+				"CarMSRP": "28,510",
+				"CarImageURL": "https://raw.githubusercontent.com/cchrxs/JSONProjectsIT315/master/350z.jpg",
+				"CarSite": "https://en.wikipedia.org/wiki/Nissan_350Z"
+
+		},
+		{
+
+				"CarName": "S2000",
+				"CarMake": "Honda",
+				"CarYear": "2003",
+				"CarHP": "240",
+				"CarEngine": "2.0 L 4 Cylinder",
+				"CarMPG": "20",
+				"CarWeight": "2,810",
+				"CarMSRP": "32,600",
+				"CarImageURL": "https://raw.githubusercontent.com/cchrxs/JSONProjectsIT315/master/S2000.JPG",
+				"CarSite": "https://en.wikipedia.org/wiki/Honda_S2000"
+
+		},
+		{
+
+				"CarName": "Focus ST",
+				"CarMake": "Ford",
+				"CarYear": "2016",
+				"CarHP": "252",
+				"CarEngine": "2.0 L 4 Cylinder",
+				"CarMPG": "22",
+				"CarWeight": "3,223",
+				"CarMSRP": "24,370",
+				"CarImageURL": "https://raw.githubusercontent.com/cchrxs/JSONProjectsIT315/master/ST.jpg",
+				"CarSite": "https://en.wikipedia.org/wiki/Ford_Focus"
+
+		},
+		{
+
+				"CarName": "Supra",
+				"CarMake": "Toyota",
+				"CarYear": "2020",
+				"CarHP": "382",
+				"CarEngine": "3.0 L V6",
+				"CarMPG": "25",
+				"CarWeight": "3,400",
+				"CarMSRP": "42,990",
+				"CarImageURL": "https://raw.githubusercontent.com/cchrxs/JSONProjectsIT315/master/Supra.jpg",
+				"CarSite": "https://en.wikipedia.org/wiki/Toyota_Supra"
+
+		},
+		{
+
+				"CarName": "GT-R",
+				"CarMake": "Nissan",
+				"CarYear": "2020",
+				"CarHP": "600",
+				"CarEngine": "3.8 L V6",
+				"CarMPG": "16",
+				"CarWeight": "3,933",
+				"CarMSRP": "113,540",
+				"CarImageURL": "https://raw.githubusercontent.com/cchrxs/JSONProjectsIT315/master/GT-R.JPG",
+				"CarSite": "https://en.wikipedia.org/wiki/Nissan_GT-R"
+
+		}
+	]
+}
